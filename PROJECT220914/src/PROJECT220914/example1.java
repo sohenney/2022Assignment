@@ -19,3 +19,4 @@ public class example1 {
 		System.out.println(s); // 정수 s값 화면 출력
 	}
 }
+

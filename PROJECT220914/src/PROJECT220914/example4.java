@@ -25,3 +25,4 @@ public class example4 {
 		scanner.close(); // scanner 닫기
 	}
 }
+

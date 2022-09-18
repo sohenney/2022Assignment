@@ -17,3 +17,4 @@ public class example7 {
 		System.out.println((3 != 2) ^ (-1 > 0));
 	}
 }
+

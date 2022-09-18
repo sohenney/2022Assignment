@@ -12,3 +12,4 @@ public class example2 {
 		System.out.println("원의 면적 = " + circleArea);
 	}
 }
+

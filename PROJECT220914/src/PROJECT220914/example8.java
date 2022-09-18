@@ -7,3 +7,4 @@ public class example8 {
 		System.out.println("두 수의 차는 " + ((a>b)?(a-b):(b-a)));
 	}
 }
+

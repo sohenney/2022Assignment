@@ -22,3 +22,4 @@ public class example6 {
 		System.out.println("a=" +a + ", d=" + d);
 	}
 }
+

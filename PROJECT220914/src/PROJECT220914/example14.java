@@ -30,3 +30,4 @@ public class example14 {
 		scanner.close();
 		}
 }
+
